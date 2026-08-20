@@ -1,6 +1,35 @@
-本模组原为《亡都遗骨》特别篇：“我的余晖”专属内容，可用于其他整合包，但需标注原作者，严禁商用。
+## English
 
-模组核心为死亡回溯，玩家死亡后返回死亡前的最近节点，而非出生点；
+This mod was originally exclusive content for the "Minefading" special episode of *Relics of the Fading City*. It can be used in other modpacks, but you must credit the original author, and commercial use is strictly prohibited.
+
+The core mechanic of this mod is death rollback: when the player dies, they return to the nearest checkpoint before death rather than the spawn point.
+
+This mod has many interesting features:
+
+| Name | Type | Function | Notes |
+| --- | --- | --- | --- |
+| Inhaler | Inhaler | Used to trigger cores | The Inhaler must be equipped in the main hand. |
+| Disconnection Core | Core | Saves immediately | Cores must be equipped in the offhand. |
+| Chronos Core | Core | Saves immediately, can slow time for a duration, and saves again when the effect ends | Cores must be equipped in the offhand. |
+| Molting Core | Core | Rolls back immediately | Cores must be equipped in the offhand. |
+| Tower Core | Core | Destroys yourself | Cores must be equipped in the offhand. **This forces the player into spectator mode and cannot be undone!** |
+| Fine Sand Core | Core | Marks a creature; when you roll back, that creature is brought to your side | Cores must be equipped in the offhand. Only one creature-marking core can be triggered at a time. |
+| Causality Core | Core | Marks a creature; when you die, the marked creature takes damage based on your max health, and you are healed | Cores must be equipped in the offhand. Only one creature-marking core can be triggered at a time. |
+| Myriad Core | Core | Marks a creature; when that creature is hurt, it modifies the items in your main hand and offhand | Cores must be equipped in the offhand. Only one creature-marking core can be triggered at a time. |
+| Stasis Core | Core | Marks a creature; that creature loses its AI for a while | Cores must be equipped in the offhand. Only one creature-marking core can be triggered at a time. |
+| Countdown | Mod config | At the start of a new day, the on-screen "Day X" changes to "X days remaining" | **When the countdown ends, the player is forced into spectator mode and cannot be undone!** |
+
+Credits:
+
+* Friend @liyuu，without him, this mod wouldn't exist;
+* Friend @LASTIMP, who taught the author how to build the mod from source code;
+* Everyone who plays this mod.
+
+## 中文
+
+本模组原为《亡都遗骨》特别篇："我的余晖"专属内容，可用于其他整合包，但需标注原作者，严禁商用。
+
+模组核心为死亡回溯，玩家死亡后返回死亡前的最近节点，而非出生点。
 
 该模组有很多有趣的东西：
 
@@ -19,6 +48,6 @@
 
 感谢：
 
-* 朋友@鲤鱼的个人小店，没有他，就没有这个模组；
+* 朋友@liyu，没有他，就没有这个模组；
 * 朋友@LASTIMP，教会作者如何从源代码里构建模组；
 * 游玩模组的大家们。
