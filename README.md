@@ -22,7 +22,7 @@ This mod has many interesting features:
 Credits:
 
 * Friend @liyuu，without him, this mod wouldn't exist;
-* Friend @LASTIMP, who taught the author how to build the mod from source code;
+* Friend @LAST-iMP, who taught the author how to build the mod from source code;
 * Everyone who plays this mod.
 
 ## 中文
@@ -49,5 +49,5 @@ Credits:
 感谢：
 
 * 朋友@liyu，没有他，就没有这个模组；
-* 朋友@LASTIMP，教会作者如何从源代码里构建模组；
+* 朋友@LAST-iMP，教会作者如何从源代码里构建模组；
 * 游玩模组的大家们。
