@@ -1,6 +1,6 @@
 ## English
 
-This mod was originally exclusive content for the "Minefading" special episode of *Relics of the Fading City*. It can be used in other modpacks, but you must credit the original author, and commercial use is strictly prohibited.
+This mod was originally exclusive content for the "Minefading" special episode of *Relics of the Fading City*. It can be used in other modpacks, but you must credit the original author.
 
 The core mechanic of this mod is death rollback: when the player dies, they return to the nearest checkpoint before death rather than the spawn point.
 
@@ -27,7 +27,7 @@ Credits:
 
 ## 中文
 
-本模组原为《亡都遗骨》特别篇："我的余晖"专属内容，可用于其他整合包，但需标注原作者，严禁商用。
+本模组原为《亡都遗骨》特别篇："我的余晖"专属内容，可用于其他整合包，但需标注原作者。
 
 模组核心为死亡回溯，玩家死亡后返回死亡前的最近节点，而非出生点。
 
